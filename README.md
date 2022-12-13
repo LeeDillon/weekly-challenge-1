@@ -19,5 +19,5 @@ SO THAT our own site is optimized for search engines
 ### Screenshots of website:
 ![image](https://user-images.githubusercontent.com/86656625/207419872-5bb38272-2829-4d85-bb5c-970da48a5d38.png)
 ![image](https://user-images.githubusercontent.com/86656625/207419952-8939bc34-c29f-43ca-91b7-44f29360ebdb.png)
-![image](https://user-images.githubusercontent.com/86656625/207418797-e43704a6-48f4-40b6-a15d-2015ff51d135.png)
+![image](https://user-images.githubusercontent.com/86656625/207421631-66307fcf-8ad4-4dff-93de-3a8d50098e18.png)
 
