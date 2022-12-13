@@ -29,12 +29,11 @@
 
 
     <main>
-        <section>
-            <div class="hero"></div>
-        </section>
+        <!-- changed div to section -->
+        <section class="hero"></section>
 
-
-        <div class="content">
+        <!-- changed div to section -->
+        <section class="content">
             <!-- replaced div child elements with article and added alt attributes to images -->
             <article class="search-engine-optimization">
                 <img src="./assets/images/search-engine-optimization.jpg" class="float-left"
@@ -72,12 +71,12 @@
                     increase your lead generation.
                 </p>
             </article>
-        </div>
+        </section>
 
 
-        <!-- replaced div child element with aside and added alt attributes to images-->
+        <!-- replaced div with aside and child element div's with articles. also added alt attributes to images-->
         <aside class="benefits">
-            <div class="benefit-lead">
+            <section class="benefit-lead">
                 <h3>Lead Generation</h3>
                 <img src="./assets/images/lead-generation.png"
                     alt="image representing 'Lead Genration', shows a gear being converted to money" />
@@ -86,8 +85,8 @@
                     directly
                     to your website.
                 </p>
-            </div>
-            <div class="benefit-brand">
+            </section>
+            <section class="benefit-brand">
                 <h3>Brand Awareness</h3>
                 <img src="./assets/images/brand-awareness.png"
                     alt="image representing 'Brand Awareness', shows a person with a light bulb in place of their head" />
@@ -96,8 +95,8 @@
                     visibility
                     for your business.
                 </p>
-            </div>
-            <div class="benefit-cost">
+            </section>
+            <section class="benefit-cost">
                 <h3>Cost Management</h3>
                 <!-- removed unnecessary img closing element. It is a self closing element so it doesn't need one -->
                 <img src="./assets/images/cost-management.png"
@@ -107,7 +106,7 @@
                     longer
                     need to advertise your page.
                 </p>
-            </div>
+            </section>
         </aside>
 
     </main>
